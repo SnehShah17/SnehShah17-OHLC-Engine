@@ -1,1 +1,11 @@
-python-3.9.15
+import csv
+import json
+import json_to_csv as jc
+import plotly.graph_objects as go
+import pandas as pd
+import plotly.express as px
+import streamlit as st
+import company_gen as cg
+import graph_gen as gg
+import pyEX as p
+import api
