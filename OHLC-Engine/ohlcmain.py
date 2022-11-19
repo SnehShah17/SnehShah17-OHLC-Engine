@@ -1,4 +1,3 @@
-pip install jsonToCsv
 import jsonToCsv as jc
 import plotly.graph_objects as go
 import pandas as pd
