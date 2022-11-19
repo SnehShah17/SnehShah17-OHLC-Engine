@@ -2,6 +2,4 @@ streamlit
 plotly
 pandas
 pyEX
-json
-csv
 json_to_csv
