@@ -1,4 +1,4 @@
-import JsonToCsv as jc
+import json_to_csv as jc
 import plotly.graph_objects as go
 import pandas as pd
 import plotly.express as px
