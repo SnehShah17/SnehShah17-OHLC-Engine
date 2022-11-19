@@ -111,5 +111,3 @@ Sneh Shah - [ss17devil@gmail.com](mailto:ss17devil@gmail.com)
 Yash Jain - [yjain9501@gmail.com](mailto:yjain9501@gmail.com)
 
 Ameya Kulkarni - [ameya.2000k@gmail.com](mailto:ameya.2000k@gmail.com)
-
-Project Link: [https://github.com/vivekjaipur/MIT-Team12](https://github.com/vivekjaipur/MIT-Team12)
