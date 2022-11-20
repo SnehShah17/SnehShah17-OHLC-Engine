@@ -3,10 +3,10 @@ import csv
 
 
 def conv():
-    with open('StockList.json') as json_file:
+    with open('OHLC-Engine/StockList.json') as json_file:
         jsondata = json.load(json_file)
 
-    data_file = open('StockList_csv.csv', 'w', newline='')
+    data_file = open('OHLC-Engine/StockList_csv.csv', 'w', newline='')
     csv_writer = csv.writer(data_file)
 
     count = 0
