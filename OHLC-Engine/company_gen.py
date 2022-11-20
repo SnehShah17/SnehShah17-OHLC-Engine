@@ -2,7 +2,7 @@ import csv
 
 
 def symbol_gen(x):
-    filename = "StockList_csv.csv"
+    filename = "OHLC-Engine/StockList_csv.csv"
     count = 0
     # initializing the titles and rows list
     fields = []
@@ -22,7 +22,7 @@ def symbol_gen(x):
                 rows.append(row)
                 count += 1
 
-    filename = "symbols.csv"
+    filename = "OHLC-Engine/symbols.csv"
     # writing to csv file
     with open(filename, 'w') as csvfile:
         # creating a csv writer object
