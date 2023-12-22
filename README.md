@@ -1,7 +1,4 @@
 <!-- TABLE OF CONTENTS -->
-## In a hurry?
-Check out on _Heroku_ via direct link :
-https://ohlc-chart-engine.herokuapp.com/
 <details open="open">
 <summary>Table of Contents</summary>
 <ol>
@@ -26,7 +23,7 @@ https://ohlc-chart-engine.herokuapp.com/
 
 ## About The Project
 
-![Demo_Image](./demo.gif)
+![demo](https://github.com/SnehShah17/SnehShah17-OHLC-Engine/assets/75317219/7077f09a-377d-4b24-ad79-50a3bb5603f1)
 
 In this project we create a Dashboard based on which User would be able to analyze the sentiment of the specific stock. We can create an Analytical Server "OHLC" (Open/High/Low/Close) time series based on the ‘Stock List’.
 
